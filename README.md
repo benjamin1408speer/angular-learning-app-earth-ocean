@@ -1,51 +1,28 @@
-# EOL First App
+# Earth Ocean Learning App
 
-Eine interaktive Angular-Webanwendung zur Erkundung der Weltmeere und ihrer Ökosysteme.
+## Description
+Interactive web application for children to explore oceans, seas and marine ecosystems.
 
-## 📋 Über das Projekt
+The app provides structured information about different water bodies, including biodiversity, depth and climate conditions.
 
-Diese Anwendung bietet eine umfassende Plattform zur Erkundung von Ozeanen und Meeren. Benutzer können Informationen über verschiedene Gewässer, deren Tierarten, Tiefen und klimatische Bedingungen entdecken.
+## Technologies
+- Angular
+- TypeScript
+- HTML / CSS
 
-### Funktionen
+## Features
+- Exploration of major oceans and seas
+- Information about marine life and ecosystems
+- Dynamic navigation with multiple routes
+- Structured content presentation
 
-- **Ozeane erkunden**: Pazifik, Atlantik, Indischer Ozean, Arktischer Ozean, Antarktischer Ozean
-- **Meere entdecken**: Mittelmeer, Ostsee, Schwarzes Meer, Rotes Meer, Nordsee
-- **Detaillierte Informationen**:
-  - Tierarten und marine Biodiversität
-  - Tiefenprofile
-  - Klimatische Bedingungen
-- **Interaktive Navigation** mit dynamischen Routen
-- **Server-Side Rendering (SSR)** für optimale Performance
+## Purpose
+This project was my first hands-on experience with Angular and frontend development.
 
-## 🚀 Technologie-Stack
+It helped me understand component-based architecture, routing and structuring larger applications.
 
-- **Framework**: Angular 20.3.0
-- **Sprache**: TypeScript 5.9.2
-- **Server**: Express.js mit Angular SSR
-- **Testing**: Jasmine & Karma
-- **Build-Tool**: Angular CLI 20.3.10
-
-### Voraussetzungen
-
-- Node.js (empfohlen: LTS-Version)
-- npm (wird mit Node.js installiert)
-
-### Setup
-
-1. Repository klonen oder Projekt herunterladen
-2. Abhängigkeiten installieren:
-
-```bash
-npm install
-```
-
-## 🛠️ Entwicklung
-
-## 🧪 Testing
-
-## 📁 Projektstruktur
-
-```
+## Status
+Completed (early project, demonstrates learning progress)
 EOL-first-app/
 ├── src/
 │   ├── app/
