@@ -25,8 +25,6 @@ Diese Anwendung bietet eine umfassende Plattform zur Erkundung von Ozeanen und M
 - **Testing**: Jasmine & Karma
 - **Build-Tool**: Angular CLI 20.3.10
 
-## 📦 Installation
-
 ### Voraussetzungen
 
 - Node.js (empfohlen: LTS-Version)
@@ -43,59 +41,7 @@ npm install
 
 ## 🛠️ Entwicklung
 
-### Development Server starten
-
-```bash
-npm start
-```
-
-oder
-
-```bash
-ng serve
-```
-
-Die Anwendung ist dann unter `http://localhost:4200/` erreichbar. Die App lädt automatisch neu, wenn Änderungen an den Quelldateien vorgenommen werden.
-
-### Build erstellen
-
-Für einen Production Build:
-
-```bash
-npm run build
-```
-
-Die Build-Artefakte werden im `dist/` Verzeichnis gespeichert.
-
-Für einen Development Build mit Watch-Modus:
-
-```bash
-npm run watch
-```
-
-### Server-Side Rendering
-
-SSR-Server starten:
-
-```bash
-npm run serve:ssr:EOL-first-app
-```
-
 ## 🧪 Testing
-
-### Unit Tests ausführen
-
-```bash
-npm test
-```
-
-oder
-
-```bash
-ng test
-```
-
-Tests werden mit Jasmine und Karma ausgeführt.
 
 ## 📁 Projektstruktur
 
@@ -181,7 +127,4 @@ Die Anwendung unterstützt moderne Browser. Spezifische Browser-Konfigurationen 
 
 Dieses Projekt ist privat (siehe `package.json`).
 
----
 
-**Version**: 0.0.0  
-**Erstellt mit**: Angular CLI 20.3.10
