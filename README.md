@@ -22,9 +22,8 @@ The application uses multiple routes to organize educational content about ocean
 Each section is separated into dedicated views for clarity and navigation.
 
 ## Purpose
-This was my first hands-on Angular project.
-
-It helped me learn component-based architecture, routing and structuring a frontend application.
+This project was one of my first steps in Angular.
+It focuses on learning routing and component structure.
 
 ## Status
 Completed (learning project)
